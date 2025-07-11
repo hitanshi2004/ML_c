@@ -1,0 +1,21 @@
+folder-->venv--->requirements.txt--->
+
+uv add -r requirements.txt
+
+add a dataset
+
+
+create main.py file--->write all the logics
+
+ML models--->train(x_train,y_train)
+
+
+supervised ML models--->in which we trained our model on labelled data(columns names are provided)
+
+
+1. target data numerical ---> LinearRegression
+
+upload all the data into github
+
+
+
