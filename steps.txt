@@ -18,4 +18,8 @@ supervised ML models--->in which we trained our model on labelled data(columns n
 upload all the data into github
 
 
+=> to connect local application with cloud
+AWS + Local application ----> user(permission)---->access_key , access_key_id--->generate----->github upload secrets
+
+
 
